@@ -1,3 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Tags test","This test will provide an error code of 400 when user tries to access an invalid resource","SUCCESS","2018-10-09T14:52:04.882+02:00[Europe/Belgrade]","0.0","3.79"
-"Tags test","Provide a 405 status code when incorrect HTTP method is used to access a resource","SUCCESS","2018-10-09T14:52:08.767+02:00[Europe/Belgrade]","0.0","0.08"
+"Tags test","This test will provide an error code of 400 when user tries to access an invalid resource","SUCCESS","2018-10-15T10:34:56.34+02:00[Europe/Belgrade]","0.0","3.79"
+"Tags test","Provide a 405 status code when incorrect HTTP method is used to access a resource","SUCCESS","2018-10-15T10:35:00.255+02:00[Europe/Belgrade]","0.0","0.1"
